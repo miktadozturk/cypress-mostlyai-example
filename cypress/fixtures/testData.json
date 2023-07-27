@@ -1,0 +1,11 @@
+{
+  "firstName": "Tester",
+  "lastName": "Example",
+  "email": "tester.example@mostly.ai",
+  "mobilePhone": "+49 123 456 7890",
+  "company": "Mostly",
+  "shortMessage": "Example Test",
+  "longMessage": "Examle Test for the mostly.ai",
+  "errorMsg": "Sorry, no results for:",
+  "searchText": "sythetic"
+}

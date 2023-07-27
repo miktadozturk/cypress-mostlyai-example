@@ -1,0 +1,21 @@
+{
+  "name": "cypress-mostlyai-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.17.2",
+    "cypress-xpath": "^2.0.1",
+    "playwright-webkit": "^1.36.2"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.9.1",
+    "rgb-hex": "^4.0.1"
+  }
+}
